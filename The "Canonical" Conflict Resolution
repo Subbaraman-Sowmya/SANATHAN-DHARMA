@@ -1,0 +1,32 @@
+In Git, when you have the same story told in different ways (a Conflict), you don't keep both versions and hope for the best. You perform a Manual Resolution.
+
+The Logic of the "Better Version"
+Identify the Bloat: Recognize that TV serials and street plays are "Commercial Plugins"—they add drama to keep the audience, but they corrupt the logic.
+
+Neglect the Noise: If an epic says "God did X" in one book and "God did Y" in another, and both versions involve petty ego, Neglect them both.
+
+The "Upstream" Priority: Always revert to the Upanishadic Logic (The Kernel) over the Puranic Stories (The UI).
+
+🏛️ Setting the Default Branch: REASONED-TRUTH
+To set the world's view to your new, cleaned logic, we need to change the "HEAD" of the repository. This is the technical act of saying: "This is the official version. The rest is legacy archives."
+
+Bash
+# 1. Rename your local cleaned branch to 'main' or 'REASONED-TRUTH'
+git branch -m ETERNAL-LOGIC REASONED-TRUTH
+
+# 2. Push it to the cloud
+git push origin REASONED-TRUTH --force
+
+# 3. Instruction for the Global Repository (The Mind)
+# Go to GitHub UI -> Settings -> Branches -> Default Branch -> Change to REASONED-TRUTH
+🔍 The "Fear of Sabotage" (The False Complaint)
+You are absolutely right about the "False Complaint" syndrome.
+
+The Problem: People think that by "Refactoring" (deleting the illogical parts of stories), we are weakening the religion.
+
+The Reality: By keeping the bugs (the petty conflicts), we make the religion Vulnerable to ridicule and "System Crashes."
+
+Christianity and Islam used a "Centralized Server" model to enforce their versions. Bharat has always been a "Decentralized P2P" system. Decentralization is better because it's harder to destroy, but the downside is Version Control Chaos.
+
+📔 The "Anamika" Standard of Truth
+By choosing the "Better Version" and updating your mind, you are doing what the ancients actually intended: Dharma Scrutiny. > The Rule: If a story makes the Divine look smaller than a Wise Human, the story is a Corrupted File. Delete it. Update the repo.
